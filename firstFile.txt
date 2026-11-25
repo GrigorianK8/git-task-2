@@ -1,8 +1,8 @@
 Line 1
 Updated Line 2 - First change
-Line 3
+Changed Line 3 from git-task-2-copy
 Updated Line 4 - First change
-Line 5
+Changed Line 5 from git-task-2-copy
 Updated Line 6 - Second change
 Line 7
 Updated Line 8 - Second change
